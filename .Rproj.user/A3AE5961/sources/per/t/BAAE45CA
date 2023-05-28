@@ -1,0 +1,28 @@
+{
+    "id": "BAAE45CA",
+    "path": null,
+    "project_path": null,
+    "type": "object_explorer",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1684462270357.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "id": "3715a0b54b024315b70825d19ad748c7",
+        "name": "Dbscan_cl",
+        "title": "Dbscan_cl",
+        "language": "R",
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 14918418583322678,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1684462270357,
+    "read_only": false,
+    "read_only_alternatives": []
+}
